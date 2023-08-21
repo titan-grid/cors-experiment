@@ -1,0 +1,16 @@
+h2 {
+    font-family: cursive;
+    color: crimson;
+    margin: 20px;
+}
+
+img {
+    width: 250px;
+    display: block;
+    margin: 20px;
+}
+
+button {
+    margin: 20px;
+    display: block;
+}
